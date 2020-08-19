@@ -43,3 +43,5 @@ repos:
 
 ### Custom Pre-Commit-Hooks
 
+for examples see 100Automations repo
+
